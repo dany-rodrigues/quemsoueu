@@ -1,4 +1,4 @@
-# quemsoueu
+# Banner/Gif - Eu Sou...
 Projeto CSS e HTML
 
 Transformando em banner/gif
